@@ -1,3 +1,5 @@
+![banner](./assets/banner.png)
+
 # Altermax · Inteligência Artificial & Machine Learning
 
 | Integrante | RM |
